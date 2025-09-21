@@ -1,7 +1,5 @@
 # 《从基础到 Transformer：大型语言模型（LLM）核心原理教程》
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/your-username/your-repo-name/pulls)
 
 欢迎来到本开源教程！本教程旨在为学习者提供一个系统、清晰且由浅入深的学习路径，以理解现代大型语言模型（尤其是 Transformer）背后的核心机器学习原理。我们将从最基础的机器学习概念开始，逐步推导至复杂的 Transformer 架构。
 
@@ -17,7 +15,7 @@
 | Part 1 | [线性回归](./part1-linear_regression/) | 损失函数、梯度下降、多元线性回归 | 🚧 |
 | Part 2 | [逻辑回归](./part2-logistic_regression/) | 分类问题、Sigmoid、交叉熵损失 | TODO |
 | Part 3 | [神经网络基础](./part3-neural_networks/) | 激活函数、反向传播、多层感知机（MLP） | TODO |
-| ... | ...（您的其他章节）... | ... | TODO |
+| ... | ...（其他章节）... | ... | TODO |
 | Part N | [Transformer 架构](./partN-transformer/) | 自注意力机制、编码器-解码器结构、位置编码 | TODO |
 
 ## 🚀 开始学习
@@ -30,8 +28,7 @@
 
 1.**克隆本仓库**
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/feanuolian/teachLLM
 ```
 
 2.**创建虚拟环境（推荐）**

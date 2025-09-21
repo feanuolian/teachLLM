@@ -95,9 +95,6 @@ pip install -r requirements.txt
 
 请阅读 [CONTRIBUTING.md](CONTRIBUTING.md) 了解详细的贡献指南和行为准则。
 
-## 📜 许可证
-
-本项目采用 MIT 许可证。请查看 [LICENSE](LICENSE) 文件了解更多信息。
 
 ## 🙏 致谢
 
